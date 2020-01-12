@@ -10,17 +10,17 @@
     <meta name="description" content="">
 
     <title>Home</title>
-    <link rel="stylesheet" href="assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.css">
-    <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
-    <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
+    <link rel="stylesheet" href="assets/web/assets/mb-icons-bold/mb-icons-bold.css">
+    <link rel="stylesheet" href="assets/web/assets/mb-icons/mb-icons.css">
+    <link rel="stylesheet" href="assets/web/assets/mb-icons2/mb2.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
     <link rel="stylesheet" href="assets/dropdown/css/style.css">
     <link rel="stylesheet" href="assets/tether/tether.min.css">
     <link rel="stylesheet" href="assets/theme/css/style.css">
-    <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css">
-    <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+    <link rel="preload" as="style" href="assets/mb/css/mbr-additional.css">
+    <link rel="stylesheet" href="assets/mb/css/mbr-additional.css" type="text/css">
 
     <style type="text/css">
         .center-in-center {

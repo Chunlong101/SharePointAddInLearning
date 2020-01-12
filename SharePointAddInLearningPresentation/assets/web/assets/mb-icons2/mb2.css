@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'Moririse2';
   font-display: swap;
-  src:  url('mobirise2.eot?f2bix4');
-  src:  url('mobirise2.eot?f2bix4#iefix') format('embedded-opentype'),
-    url('mobirise2.ttf?f2bix4') format('truetype'),
-    url('mobirise2.woff?f2bix4') format('woff'),
-    url('mobirise2.svg?f2bix4#mobirise2') format('svg');
+  src:  url('mb2.eot?f2bix4');
+  src:  url('mb2.eot?f2bix4#iefix') format('embedded-opentype'),
+    url('mb2.ttf?f2bix4') format('truetype'),
+    url('mb2.woff?f2bix4') format('woff'),
+    url('mb2.svg?f2bix4#mb2') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -268,7 +268,7 @@
 .mobi-mbri-mobile:before {
   content: "\e950";
 }
-.mobi-mbri-mobirise:before {
+.mobi-mbri-mb:before {
   content: "\e951";
 }
 .mobi-mbri-more-horizontal:before {

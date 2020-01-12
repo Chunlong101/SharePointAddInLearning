@@ -89,7 +89,7 @@ namespace SharePointAddInLearningPresentation
             {
                 using (ClientContext cc = new AuthenticationManager().GetHighTrustCertificateAppOnlyAuthenticatedContext(SiteUrl, AppId, Server.MapPath(CertificatePath), CertificatePasswords, CertificateIssuerId))
                 {
-                    var client = new RestClient("http://sp2019/sites/SPDev/_api/web/lists/getbytitle('SharePointAddInTopicSharingSession')/items?$select=Id,UserName,Email,Phone&$orderby=Id desc&$top=5");
+                    var client = new RestClient(SiteUrl + "/_api/web/lists/getbytitle('SharePointAddInTopicSharingSession')/items?$select=Id,UserName,Email,Phone&$orderby=Id desc&$top=5");
                     var request = new RestRequest(Method.GET);
                     request.AddHeader("Accept", "application/json");
                     var accessToken = cc.GetAccessToken();

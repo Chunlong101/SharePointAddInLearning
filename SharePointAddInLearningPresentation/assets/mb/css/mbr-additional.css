@@ -3271,7 +3271,7 @@ section.lazy-placeholder:after {
   -moz-transition: opacity .3s ease;
   -o-transition: opacity .3s ease;
   transition: opacity .3s ease;
-  font-family: 'MobiriseIcons';
+  font-family: 'mbIcons';
 }
 .cid-rMYpZLtYrD .close::before {
   content: '\e91a';

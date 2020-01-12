@@ -1,18 +1,18 @@
 @font-face {
-  font-family: 'mobirise-icons-bold';
+  font-family: 'mb-icons-bold';
   font-display: swap;
-  src:  url('mobirise-icons-bold.eot?m1l4yr');
-  src:  url('mobirise-icons-bold.eot?m1l4yr#iefix') format('embedded-opentype'),
-    url('mobirise-icons-bold.ttf?m1l4yr') format('truetype'),
-    url('mobirise-icons-bold.woff?m1l4yr') format('woff'),
-    url('mobirise-icons-bold.svg?m1l4yr#mobirise-icons-bold') format('svg');
+  src:  url('mb-icons-bold.eot?m1l4yr');
+  src:  url('mb-icons-bold.eot?m1l4yr#iefix') format('embedded-opentype'),
+    url('mb-icons-bold.ttf?m1l4yr') format('truetype'),
+    url('mb-icons-bold.woff?m1l4yr') format('woff'),
+    url('mb-icons-bold.svg?m1l4yr#mb-icons-bold') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 [class^="mbrib-"], [class*="mbrib-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'mobirise-icons-bold' !important;
+  font-family: 'mb-icons-bold' !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -262,7 +262,7 @@
 .mbrib-mobile2:before {
   content: "\e94e";
 }
-.mbrib-mobirise:before {
+.mbrib-mb:before {
   content: "\e94f";
 }
 .mbrib-more-horizontal:before {

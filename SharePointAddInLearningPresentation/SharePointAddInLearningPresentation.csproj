@@ -219,22 +219,69 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="AboutUs.html" />
+    <Content Include="assets\bootstrapcarouselswipe\bootstrap-carousel-swipe.js" />
     <Content Include="assets\bootstrap\css\bootstrap-grid.min.css" />
     <Content Include="assets\bootstrap\css\bootstrap-reboot.min.css" />
     <Content Include="assets\bootstrap\css\bootstrap.min.css" />
     <Content Include="assets\bootstrap\js\bootstrap.min.js" />
+    <Content Include="assets\datatables\data-tables.bootstrap4.min.css" />
+    <Content Include="assets\datatables\data-tables.bootstrap4.min.js" />
+    <Content Include="assets\datatables\jquery.data-tables.min.js" />
     <Content Include="assets\dropdown\css\style.css" />
     <Content Include="assets\dropdown\js\nav-dropdown.js" />
     <Content Include="assets\dropdown\js\navbar-dropdown.js" />
     <Content Include="assets\formoid\formoid.min.js" />
+    <Content Include="assets\images\azureadoauthflow-716x817.png" />
+    <Content Include="assets\images\azureadoauthflow-741x743.png" />
+    <Content Include="assets\images\gettingstartedwithspfx-1087x609.png" />
+    <Content Include="assets\images\gettingstartedwithspfx-510x286.png" />
+    <Content Include="assets\images\hightrustflow-1466x815.png" />
+    <Content Include="assets\images\hightrustflow-1543x858.png" />
+    <Content Include="assets\images\huoguo-1080x1440.jpeg" />
+    <Content Include="assets\images\huoguo-1080x1440.jpg" />
+    <Content Include="assets\images\lowtrustflow-1466x774.png" />
+    <Content Include="assets\images\lowtrustflow-1530x808.png" />
+    <Content Include="assets\images\mbr-1-1920x1280.jpg" />
     <Content Include="assets\images\mbr-1920x1276.jpg" />
+    <Content Include="assets\images\mbr-1920x1279.jpg" />
+    <Content Include="assets\images\mbr-1920x1280.jpg" />
+    <Content Include="assets\images\mbr-1920x1282.jpg" />
+    <Content Include="assets\images\mbr-1920x1508.jpg" />
     <Content Include="assets\images\mbr-favicon.png" />
+    <Content Include="assets\images\oauthflow-1-809x722.png" />
+    <Content Include="assets\images\oauthflow-1280x720.jpg" />
+    <Content Include="assets\images\oauthflow-809x722.png" />
     <Content Include="assets\images\sharepoint-210x210.png" />
+    <Content Include="assets\images\sharepoint-44x44.png" />
+    <Content Include="assets\images\spdevhistory-2462x1390.png" />
+    <Content Include="assets\images\spdevhistory-510x288.png" />
+    <Content Include="assets\images\techroadmap-2-1235x2225.png" />
+    <Content Include="assets\images\techroadmap-3-1213x1497.png" />
+    <Content Include="assets\images\techroadmap-4-1285x1866.png" />
+    <Content Include="assets\images\toptrendsinwebdev2019-1-1279x624.png" />
+    <Content Include="assets\images\toptrendsinwebdev2019-1-1279x6241.png" />
+    <Content Include="assets\images\toptrendsinwebdev2019-1-1279x62412.png" />
+    <Content Include="assets\images\toptrendsinwebdev2019-1-1279x62413.png" />
+    <Content Include="assets\images\toptrendsinwebdev2019-1-1279x6242.png" />
+    <Content Include="assets\images\toptrendsinwebdev2019-1-1279x6246.png" />
+    <Content Include="assets\images\toptrendsinwebdev2019-1-510x249.png" />
+    <Content Include="assets\images\toptrendsinwebdev2019-1282x837.png" />
+    <Content Include="assets\images\toptrendsinwebdev2019-4-1280x716.png" />
+    <Content Include="assets\images\toptrendsinwebdev2019-4-510x285.png" />
+    <Content Include="assets\images\toptrendsinwebdev2019-5-1274x670.png" />
+    <Content Include="assets\images\toptrendsinwebdev2019-5-510x268.png" />
+    <Content Include="assets\images\toptrendsinwebdev2019-510x333.png" />
+    <Content Include="assets\images\toptrendsinwebdev2019-6-1264x671.png" />
+    <Content Include="assets\images\toptrendsinwebdev2019-6-510x271.png" />
+    <Content Include="assets\images\toptrendsinwebdev2019-7-1269x674.png" />
+    <Content Include="assets\images\toptrendsinwebdev2019-7-510x271.png" />
     <Content Include="assets\images\wechat-image-20200105002457-1620x1080.jpg" />
     <Content Include="assets\images\wechat-image-20200105002503-2000x1335.jpg" />
-    <Content Include="assets\mobirise\css\mbr-additional.css" />
+    <Content Include="assets\images\wechatoauthflow-1182x948.png" />
+    <Content Include="assets\mb\css\mbr-additional.css" />
     <Content Include="assets\parallax\jarallax.min.js" />
     <Content Include="assets\popper\popper.min.js" />
+    <Content Include="assets\slidervideo\script.js" />
     <Content Include="assets\smoothscroll\smooth-scroll.js" />
     <Content Include="assets\tether\tether.min.css" />
     <Content Include="assets\tether\tether.min.js" />
@@ -243,12 +290,13 @@
     <Content Include="assets\touchswipe\jquery.touch-swipe.min.js" />
     <Content Include="assets\vimeoplayer\jquery.mb.vimeo_player.js" />
     <Content Include="assets\web\assets\jquery\jquery.min.js" />
-    <Content Include="assets\web\assets\mobirise-icons-bold\mobirise-icons-bold.css" />
-    <Content Include="assets\web\assets\mobirise-icons-bold\mobirise-icons-bold.svg" />
-    <Content Include="assets\web\assets\mobirise-icons2\mobirise2.css" />
-    <Content Include="assets\web\assets\mobirise-icons2\mobirise2.svg" />
-    <Content Include="assets\web\assets\mobirise-icons\mobirise-icons.css" />
-    <Content Include="assets\web\assets\mobirise-icons\mobirise-icons.svg" />
+    <Content Include="assets\web\assets\mb-icons-bold\mb-icons-bold.css" />
+    <Content Include="assets\web\assets\mb-icons-bold\mb-icons-bold.svg" />
+    <Content Include="assets\web\assets\mb-icons2\mb2.css" />
+    <Content Include="assets\web\assets\mb-icons2\mb2.svg" />
+    <Content Include="assets\web\assets\mb-icons\mb-icons.css" />
+    <Content Include="assets\web\assets\mb-icons\mb-icons.svg" />
+    <Content Include="assets\ytplayer\jquery.mb.ytplayer.min.js" />
     <Content Include="ErrorPage.html" />
     <Content Include="Index.aspx" />
     <Content Include="assets\images\loading.gif" />
@@ -271,15 +319,15 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="assets\images\hashes.json" />
-    <Content Include="assets\web\assets\mobirise-icons-bold\mobirise-icons-bold.eot" />
-    <Content Include="assets\web\assets\mobirise-icons-bold\mobirise-icons-bold.ttf" />
-    <Content Include="assets\web\assets\mobirise-icons-bold\mobirise-icons-bold.woff" />
-    <Content Include="assets\web\assets\mobirise-icons2\mobirise2.eot" />
-    <Content Include="assets\web\assets\mobirise-icons2\mobirise2.ttf" />
-    <Content Include="assets\web\assets\mobirise-icons2\mobirise2.woff" />
-    <Content Include="assets\web\assets\mobirise-icons\mobirise-icons.eot" />
-    <Content Include="assets\web\assets\mobirise-icons\mobirise-icons.ttf" />
-    <Content Include="assets\web\assets\mobirise-icons\mobirise-icons.woff" />
+    <Content Include="assets\web\assets\mb-icons-bold\mb-icons-bold.eot" />
+    <Content Include="assets\web\assets\mb-icons-bold\mb-icons-bold.ttf" />
+    <Content Include="assets\web\assets\mb-icons-bold\mb-icons-bold.woff" />
+    <Content Include="assets\web\assets\mb-icons2\mb2.eot" />
+    <Content Include="assets\web\assets\mb-icons2\mb2.ttf" />
+    <Content Include="assets\web\assets\mb-icons2\mb2.woff" />
+    <Content Include="assets\web\assets\mb-icons\mb-icons.eot" />
+    <Content Include="assets\web\assets\mb-icons\mb-icons.ttf" />
+    <Content Include="assets\web\assets\mb-icons\mb-icons.woff" />
     <Content Include="NLog.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
@@ -288,8 +336,17 @@
     </None>
     <None Include="packages.config" />
     <Content Include="SPDev.pfx" />
+    <None Include="Properties\PublishProfiles\chunlong - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\chunlong - ReadOnly - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\chunlong - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\Default Settings.pubxml" />
     <None Include="Properties\PublishProfiles\Default Settings1.pubxml" />
+    <None Include="Properties\PublishProfiles\SharePointDevelopment - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\SharePointDevelopment - FTP1.pubxml" />
+    <None Include="Properties\PublishProfiles\SharePointDevelopment - ReadOnly - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\SharePointDevelopment - ReadOnly - FTP1.pubxml" />
+    <None Include="Properties\PublishProfiles\SharePointDevelopment - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\SharePointDevelopment - Web Deploy1.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

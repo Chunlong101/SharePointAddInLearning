@@ -100,7 +100,7 @@ namespace SharePointAddInLearningPresentation
                     IRestResponse response = client.Execute(request);
                     var userContacts = JsonConvert.DeserializeObject<UserContacts>(response.Content);
 
-                    logger.Debug("Got rest api response: " + response.Content);
+                    logger.Debug(string.Format("Got rest api response: + {0}", response.Content));
 
                     if (userContacts.Value.Count > 0)
                     {
